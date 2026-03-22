@@ -17,14 +17,20 @@ export let smoother: any = {
 const Navbar = () => {
   useEffect(() => {
     let links = document.querySelectorAll(".header ul a");
+
     links.forEach((elem) => {
       let element = elem as HTMLAnchorElement;
+
       element.addEventListener("click", (e) => {
         if (window.innerWidth > 1024) {
           e.preventDefault();
+
           let el = e.currentTarget as HTMLAnchorElement;
           let section = el.getAttribute("data-href");
-          document.querySelector(section!)?.scrollIntoView({ behavior: "smooth" });
+
+          document
+            .querySelector(section!)
+            ?.scrollIntoView({ behavior: "smooth" });
         }
       });
     });
@@ -36,13 +42,16 @@ const Navbar = () => {
         <a href="/#" className="navbar-title" data-cursor="disable">
           VB
         </a>
-        
+
+        {/* ✅ FIXED anchor tag */}
+        <a
           href="mailto:bajpaivaibhav8081@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
           bajpaivaibhav8081@gmail.com
         </a>
+
         <ul>
           <li>
             <a data-href="#about" href="#about">
@@ -61,10 +70,12 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
+
       <div className="landing-circle1"></div>
       <div className="landing-circle2"></div>
       <div className="nav-fade"></div>
     </>
   );
 };
+
 export default Navbar;
