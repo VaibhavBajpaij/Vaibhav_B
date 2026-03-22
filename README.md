@@ -17,12 +17,8 @@ A modern, interactive 3D portfolio website built with React, Three.js, and GSAP 
 - GitHub: [VaibhavBajpaij](https://github.com/VaibhavBajpaij)
 - LeetCode: [MrYodha](https://leetcode.com/MrYodha)<img width="1890" height="916" alt="Screenshot 2026-03-23 023744" src="https://github.com/user-attachments/assets/c90b891d-2a91-46c6-b0a5-fb8bd2c653d8" />
 
-```
 
-
-**About Section content** (for your `About.tsx` or wherever the about text is):
-```
-I'm Vaibhav Bajpai, a Full Stack Developer and IT student at Noida Institute of Engineering and Technology (graduating 2026) with a GPA of 3.7/4.0.
+I'm Vaibhav Bajpai, a Full Stack Developer and IT student at Noida Institute of Engineering and Technology (graduating 2026)
 
 I specialize in building responsive, performant web applications using React, Node.js, Django, and modern frontend technologies. With 350+ DSA problems solved and 2 top-10 hackathon finishes, I bring both technical depth and problem-solving mindset to every project.
 
