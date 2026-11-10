@@ -10,54 +10,61 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                bajpaivaibhav8081@gmail.com
+              <a
+                href="mailto:vaibhavbajpaioffical800@gmail.com"
+                data-cursor="disable"
+              >
+                vaibhavbajpaioffical800@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>B.tech in Information Technology</p>
+            <p>B.Tech in Information Technology (NIET, 2026)</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
               href="https://github.com/VaibhavBajpaij"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/vaibhav-bajpai-baj/"
+              href="https://www.linkedin.com/in/vaibhav-bajpai18"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/vaibhavbaj18"
+              href="https://cbdevstudio.in/"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              CB Dev Studio <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/va.ibhav7818"
+              href="https://leetcode.com/u/MrYodha"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              LeetCode <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-               Developed <br /> by <span>Vaibhav Bajpai</span>
+              Developed <br /> by <span>Vaibhav Bajpai</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
