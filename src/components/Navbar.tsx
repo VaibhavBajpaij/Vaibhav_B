@@ -43,13 +43,12 @@ const Navbar = () => {
           VB
         </a>
 
-        {/* ✅ FIXED anchor tag */}
         <a
-          href="mailto:bajpaivaibhav8081@gmail.com"
+          href="mailto:vaibhavbajpaioffical800@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          bajpaivaibhav8081@gmail.com
+          vaibhavbajpaioffical800@gmail.com
         </a>
 
         <ul>

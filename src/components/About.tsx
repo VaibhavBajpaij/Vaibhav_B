@@ -6,12 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer and B.Tech IT student (2026) with hands-on experience across frontend, backend,
-           and machine learning technologies. Skilled in Java, Python, JavaScript, and SQL, with strong knowledge of Spring Framework
-           , JDBC, Node.js, Express.js, and Django for backend development. Experienced in building responsive user interfaces using React.js
-           , HTML, and CSS. Proficient in working with databases like MySQL and SQLite, and tools including Git, GitHub, Docker, Postman, TensorFlow,
-           and OpenCV. Strong foundation in Data Structures & Algorithms with 350+ problems solved, along with practical experience in REST APIs,
-            MVC architecture, and real-world project development.
+          Full-Stack Software Engineer, Android Developer, and Founder of CB Dev
+          Studio (B.Tech IT, NIET Greater Noida 2026, 7.97 CGPA) with hands-on
+          experience across backend systems, applied AI/LLMs, and native mobile
+          apps. Previously Post-Training LLM / AI Engineer Intern at Ethara AI.
+          Skilled in Java, Python, Kotlin, TypeScript, React.js, Spring Boot,
+          FastAPI, Node.js, Android Jetpack, Google ML Kit, PaddleOCR, and
+          Docker, with 357+ LeetCode solutions synced on GitHub.
         </p>
       </div>
     </div>
