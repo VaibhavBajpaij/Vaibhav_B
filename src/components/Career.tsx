@@ -15,45 +15,46 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Freelance Web Developer</h4>
-                <h5>Self-Employed</h5>
+                <h4>Founder & Software Developer</h4>
+                <h5>CB Dev Studio</h5>
               </div>
-              <h3>2023</h3>
+              <h3>NOW</h3>
             </div>
             <p>
-              Developed 4+ responsive websites for local businesses and college
-              organizations, serving 500+ monthly users. Built reusable React
-              and vanilla JavaScript components, reducing development time by 20%.
+              Founded CB Dev Studio, architecting flagship Android app Alarm
+              Breaker (Google ML Kit posture & rep-counting, MVVM, Room SQLite)
+              for Google Play Store alongside 4+ full-stack client web platforms
+              with CI/CD & Docker.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>AI & ML Projects</h4>
-                <h5>Personal / Academic</h5>
+                <h4>Post-Training LLM / AI Intern</h4>
+                <h5>Ethara AI</h5>
               </div>
-              <h3>2024</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Built SignLearn, a real-time sign language recognition app using
-              React, Flask, TensorFlow & OpenCV achieving 90% accuracy. Developed
-              CodeCure, a predictive healthcare platform with 85% diagnostic
-              accuracy serving 100+ users.
+              Engineered LLM evaluation harnesses, structured JSON prompt
+              rubrics, and asynchronous FastAPI verification workflows across
+              100+ production queries; built offline Food Intelligence OCR and
+              Enterprise RAG pipelines.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
                 <h4>B.Tech — Information Technology</h4>
-                <h5>Noida Institute of Engineering and Technology</h5>
+                <h5>NIET, Greater Noida (7.97 CGPA)</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022–26</h3>
             </div>
             <p>
-              Pursuing B.Tech (Expected 2026). Solved 350+ DSA
-              problems on LeetCode & GeeksforGeeks. Secured top-10 finishes in
-              2 hackathons and built AgriShield — an AI-powered platform bridging
-              farmers and buyers with crop price prediction and blockchain-secured contracts.
+              Graduating Class of 2026. Solved 357+ LeetCode problems, earned
+              Oracle Cloud (OCI) Foundations & AI Foundations certifications,
+              secured 2 top-10 hackathon finishes, and shipped AgriShield &
+              CodeCure.
             </p>
           </div>
         </div>
