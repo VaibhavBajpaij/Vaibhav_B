@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Interactive 3D developer portfolio of Vaibhav Bajpai built with React, TypeScript, Three.js, and GSAP.",
-  "author": "Vaibhav Bajpai <vaibhavbajpaioffical800@gmail.com>",
+  "author": "Vaibhav Bajpai <vaibhavbajpai.official800@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
