@@ -11,10 +11,10 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a
-                href="mailto:vaibhavbajpaioffical800@gmail.com"
+                href="mailto:vaibhavbajpai.official800@gmail.com"
                 data-cursor="disable"
               >
-                vaibhavbajpaioffical800@gmail.com
+                vaibhavbajpai.official800@gmail.com
               </a>
             </p>
             <h4>Education</h4>
