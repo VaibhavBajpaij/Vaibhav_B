@@ -1,7 +1,9 @@
 {
-  "name": "rajesh-portfolio",
+  "name": "vaibhav-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Interactive 3D developer portfolio of Vaibhav Bajpai built with React, TypeScript, Three.js, and GSAP.",
+  "author": "Vaibhav Bajpai <vaibhavbajpaioffical800@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
